@@ -1,4 +1,4 @@
-# MARPUL — Execution Engine (extract)
+# MARPUL — Execution Engine
 
 MARPUL is an intraday algorithmic trading system for NSE (India) equities,
 built around a real-time market-data pipeline, a rule-based entry/exit
