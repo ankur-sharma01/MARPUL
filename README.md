@@ -1,5 +1,6 @@
 # MARPUL — Execution Engine
 
+
 MARPUL is an intraday algorithmic trading system for NSE (India) equities,
 built around a real-time market-data pipeline, a rule-based entry/exit
 signal engine, and an order-execution layer that talks to a broker's REST
@@ -110,3 +111,6 @@ C++17 · lock-free concurrency (Vyukov-style MPSC ring buffer) · POSIX
 real-time scheduling (`SCHED_FIFO`, `mlockall`, CPU affinity) · libcurl ·
 Redis (hiredis) · ZeroMQ (private modules) · deployed on Oracle Cloud
 Infrastructure, Ampere A1 (ARM), ap-mumbai-1.
+
+
+**NOTE - THIS IS JUST A PART OF A PROPRIETARY SOFTWARE, ACTUAL FILES MAY DIFFER.**
